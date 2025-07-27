@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -12,7 +11,7 @@
     .responsive-image {
       width: 100vw;      /* Full viewport width */
       height: 100vh;     /* Full viewport height */
-      object-fit: contain; /* Keep aspect ratio, contain within window */
+      object-fit: cover; /* Keep aspect ratio, contain within window, or cover- cover the entire window */
       display: block;
     }
   </style>

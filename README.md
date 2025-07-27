@@ -1,6 +1,3 @@
-I need to install the Claspo (https://claspo.io) script on our site
-
-Paste this script only once on every page of your website – right before the closing </body> tag:
 <script>
     !function (t, e, c, n) {
         var s = e.createElement(c);
@@ -17,19 +14,5 @@ Paste this script only once on every page of your website – right before the c
         t['claspo'] = t['claspo'] || f;
     }(window, document, 'script', 'BE7E9464A52A4D7BB1FAA1A24589E3E2');
 </script><script>claspo('init');</script>
-
-Alternative ways to install the script:
-https://support.claspo.io/en/collections/5041998-user-guides-and-instructions
-    function verifyAge() {
-      const isOldEnough = confirm("Are you 18 years or older?");
-      if (isOldEnough) {
-        document.getElementById('protected-content').style.display = 'block';
-        document.querySelector('button').style.display = 'none';
-      } else {
-        document.getElementById('error-message').style.display = 'block';
-      }
-    }
-  </script>
-
 </body>
 </html>

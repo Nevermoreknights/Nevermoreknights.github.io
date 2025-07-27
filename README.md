@@ -20,7 +20,9 @@
 
 
   <img src="https://i.postimg.cc/J0CjMcXm/fulumi-plyby-edit-sfw.png" alt="Expanding Image" class="responsive-image">
-<iframe width="0" height="0" src="https://www.youtube.com/embed/14ZmgfbGZvU?si=ZyIqAz8MuMYGcgaL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<audio controls autoplay style="position: absolute; top: 0; left: 0">
+        <source style="size: 2px;" src="https://files.catbox.moe/e734ky.mp3" type="audio/mp3">
+</audio>
 <script>
     !function (t, e, c, n) {
         var s = e.createElement(c);

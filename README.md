@@ -32,7 +32,7 @@
 
   <div id="protected-content">
     <h2>Verified!</h2>
-    <style=width:100%;height:100%;background-image:url('https://i.imgur.com/dJMHGji.jpeg');background-size:cover;background-repeat:no-repeat;position:absolute;top:0;left:0;margin:0;padding:0;></div><iframe width="0" height="0" src="https://www.youtube.com/embed/d-nxW9qBtxQ?si=dkhtUsxfACVvOfA5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <img src="https://i.postimg.cc/fbdbT6Y9/Fulu-Profile-inwork-3-1.png" alt="Protected Content" style="max-width: 80%;">
   </div>
 
   <script>

@@ -19,7 +19,7 @@
 <body>
 
 
-  <img src="https://i.postimg.cc/fbdbT6Y9/Fulu-Profile-inwork-3-1.png" alt="Expanding Image" class="responsive-image">
+  <img src="https://i.postimg.cc/J0CjMcXm/fulumi-plyby-edit-sfw.png" alt="Expanding Image" class="responsive-image">
 
 <script>
     !function (t, e, c, n) {

@@ -1,6 +1,27 @@
-<div 
-<img src="https://i.postimg.cc/fbdbT6Y9/Fulu-Profile-inwork-3-1.png">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Responsive Image</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    .responsive-image {
+      width: 100vw;      /* Full viewport width */
+      height: 100vh;     /* Full viewport height */
+      object-fit: contain; /* Keep aspect ratio, contain within window */
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+
+  <img src="https://i.postimg.cc/fbdbT6Y9/Fulu-Profile-inwork-3-1.png" alt="Expanding Image" class="responsive-image">
+
 <script>
     !function (t, e, c, n) {
         var s = e.createElement(c);

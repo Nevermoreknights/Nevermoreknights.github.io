@@ -19,7 +19,7 @@
 <body>
 
 
-  <img src="https://i.postimg.cc/J0CjMcXm/fulumi-plyby-edit-sfw.png" alt="Expanding Image" class="responsive-image">
+  <img src="https://i.postimg.cc/RVXMw7R0/Fulu-Profile-inwork-3-2-sfw.png" alt="Expanding Image" class="responsive-image">
 <audio controls autoplay style="position: absolute; top: 0; left: 0">
         <source style="size: 2px;" src="https://files.catbox.moe/e734ky.mp3" type="audio/mp3">
 </audio>

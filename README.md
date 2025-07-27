@@ -1,5 +1,6 @@
-<img style=width:100%;height:100% src="https://i.postimg.cc/fbdbT6Y9/Fulu-Profile-inwork-3-1.png">
-
+<div style=width:100%;height:100%
+img src="https://i.postimg.cc/fbdbT6Y9/Fulu-Profile-inwork-3-1.png">
+</div>
 <script>
     !function (t, e, c, n) {
         var s = e.createElement(c);

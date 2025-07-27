@@ -1,23 +1,51 @@
-# Nevermoreknights.github.io
-I need to install the Claspo (https://claspo.io) script on our site
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Age Verification</title>
+  <style>
+    #protected-content {
+      display: none;
+      text-align: center;
+      margin-top: 20px;
+    }
+    #error-message {
+      color: red;
+      text-align: center;
+      display: none;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 50px;
+    }
+  </style>
+</head>
+<body>
 
-Paste this script only once on every page of your website – right before the closing </body> tag:
-<script>
-    !function (t, e, c, n) {
-        var s = e.createElement(c);
-        s.async = 1, s.src = 'https://scripts.claspo.io/scripts/' + n + '.js';
-        var r = e.scripts[0];
-        r.parentNode.insertBefore(s, r);
-        var f = function () {
-            f.c(arguments);
-        };
-        f.q = [];
-        f.c = function () {
-            f.q.push(arguments);
-        };
-        t['claspo'] = t['claspo'] || f;
-    }(window, document, 'script', 'BE7E9464A52A4D7BB1FAA1A24589E3E2');
-</script><script>claspo('init');</script>
+  <h1>Age Verification Required</h1>
+  <p>Please confirm your age to continue:</p>
 
-Alternative ways to install the script:
-https://support.claspo.io/en/collections/5041998-user-guides-and-instructions
+  <button onclick="verifyAge()">I'm 18 or Older</button>
+
+  <div id="error-message">You must be at least 18 to view this content.</div>
+
+  <div id="protected-content">
+    <h2>Verified!</h2>
+    <img src="your-image.jpg" alt="Protected Content" style="max-width: 80%;">
+  </div>
+
+  <script>
+    function verifyAge() {
+      const isOldEnough = confirm("Are you 18 years or older?");
+      if (isOldEnough) {
+        document.getElementById('protected-content').style.display = 'block';
+        document.querySelector('button').style.display = 'none';
+      } else {
+        document.getElementById('error-message').style.display = 'block';
+      }
+    }
+  </script>
+
+</body>
+</html>

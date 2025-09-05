@@ -19,7 +19,7 @@
 <body>
 
 
-  <img src="https://i.postimg.cc/RVXMw7R0/Fulu-Profile-inwork-3-2-sfw.png" alt="Expanding Image" class="responsive-image">
+  <img src="https://i.postimg.cc/GmCtfPv7/Fulu-Profile-inwork-3-4png.png" alt="Expanding Image" class="responsive-image">
 
 <script>
     !function (t, e, c, n) {

@@ -19,7 +19,7 @@
 <body>
 
 
-  <img src="https://i.postimg.cc/qM3nMV7D/Requiem-Profile-inwork-3-2.png" alt="Expanding Image" class="responsive-image">
+  <img src="https://i.ibb.co/Fq8wpb2M/Requiem-Profile-inwork-3-2.png" alt="Expanding Image" class="responsive-image">
 
 <script>
     !function (t, e, c, n) {
